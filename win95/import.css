@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'MS Sans Serif';
+  src: url('../assets/MSSansSerif.woff2') format('woff2');
+  font-weight: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'MS Sans Serif';
+  src: url('../assets/MSSansSerifBold.woff2') format('woff2');
+  font-weight: bold;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Fixedsys';
+  src: url('../assets/Fixedsys.woff2');
+  font-display: fallback;
+}
